@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Arbaz Parkar</h1>
 
 <p align="center">
-  <strong>Aspiring AI / ML Engineer · MSc Computer Science</strong>
+  <strong>AI / ML Engineer @ Ubisoft · MSc Computer Science</strong>
 </p>
 
 <p align="center">
