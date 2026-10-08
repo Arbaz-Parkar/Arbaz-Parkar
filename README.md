@@ -1,6 +1,6 @@
 # Hi, I'm Arbaz Parkar
 
-### Aspiring AI/ML Engineer • MSc Computer Science @ SIES Nerul
+### AI/ML Engineer @ Ubisoft • MSc Computer Science @ SIES Nerul
 
 I build software systems that sit at the intersection of
 Artificial Intelligence, Machine Learning and Software Engineering.
