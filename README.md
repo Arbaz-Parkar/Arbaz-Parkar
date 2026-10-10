@@ -28,7 +28,7 @@
 
 I'm an MSc Computer Science student at SIES Nerul with a growing focus on Artificial Intelligence and Machine Learning.
 
-My goal is to become an AI/ML engineer who can build, understand, and deploy intelligent systems rather than simply use AI APIs.
+I'm also an AI/ML engineer at Ubisoft, who can build, understand, and deploy intelligent systems rather than simply use AI APIs.
 
 I'm currently focusing on:
 
