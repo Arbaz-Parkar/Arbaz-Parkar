@@ -36,6 +36,7 @@ I'm currently focusing on:
 - Retrieval-Augmented Generation (RAG)
 - Large Language Models (LLMs)
 - Embeddings & Vector Search
+- Generative AI
 - Natural Language Processing
 - AI system architecture
 - Game AI and intelligent NPC systems
