@@ -202,20 +202,29 @@ Every project is an opportunity to experiment, solve problems, and become a bett
 
 ---
 
+---
+
 ## GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Arbaz-Parkar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz-Parkar&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-    height="180"
-    alt="Most Used Languages"
-  />
-</p>
+<div align="center">
+
+  <a href="https://github.com/Arbaz-Parkar">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=Arbaz-Parkar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"
+      height="180"
+      alt="GitHub Statistics"
+    />
+  </a>
+
+  <a href="https://github.com/Arbaz-Parkar">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arbaz-Parkar&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+      height="180"
+      alt="Most Used Languages"
+    />
+  </a>
+
+</div>
 
 ---
 
